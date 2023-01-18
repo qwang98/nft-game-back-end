@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+# NFT Game (Back End)
+Turn based NFT game similar to Axie Infinity. This repo contains the contract backend only. See the other repo for the front end and its screenshots.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+## Notes
+Deployed on Goerli Testnet.
